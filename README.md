@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hritik Raushan</h1>
 <h3 align="center">A passionate frontend developer and backend developer from India.</h3>
 
-- 🔭 I’m currently working on **birthday wishing app**
+- 🔭 I’m currently working on **News app**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm, apart from this I am also learning android app development.**
 
