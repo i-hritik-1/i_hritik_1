@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hritik Raushan</h1>
 <h3 align="center">A passionate frontend developer and backend developer from India.</h3>
 
-- 🔭 I’m currently working on **News app**
+- 🔭 I’m currently working on **React Learning**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm, apart from this I am also learning android app development.**
+- 🌱 I’m currently learning **Data Structure and Algorithm, React**
 
-- 💬 Ask me about **Data Structure and Algorithm, Android Development**
+- 💬 Ask me about **Data Structure and Algorithm, Web Development**
 
 - 📫 How to reach me **official.ihritik@gmail.com**
 
